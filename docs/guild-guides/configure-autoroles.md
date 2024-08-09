@@ -8,8 +8,8 @@ sidebar_position: 1
 
 - To configure autoroles for a guild, you as a user require one (or more) of the following permissions:
   - `Administrator`
-  - `Manage Roles`
   - `Manage Guild`
+  - `Manage Roles`
 - In order for autoroles to work, the bot requires the `Manage Roles` permission.
 
 **There are two aspects to an autorole role; the associated Discord role, and the requirement for obtaining it.** This for example could be an `@10k Trophies` with the requirement of `10,000` MCC Island trophies.
@@ -28,10 +28,10 @@ sidebar_position: 1
 
    ![image](images/autoroles/set-requirement.png)
 
-You should now see a success message confirming that the the role has been added to your chosen autorole group.
+You should now see a success message confirming that the selected role has been added to your chosen autorole group.
 
 :::note[]
-To add a Discord role to an autorole, the role must be assignable by the bot and not have the `Administrator` permission.
+To add a Discord role to an autorole, the role must be assignable by the IsleStats bot and not have the `Administrator` permission.
 :::
 
 ## Removing Autorole Roles
