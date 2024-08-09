@@ -42,8 +42,6 @@ const config = {
         docs: {
           sidebarPath: "./sidebars.js",
           routeBasePath: "/",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/IsleStat/docs",
         },
         theme: {
@@ -82,7 +80,7 @@ const config = {
         ],
       },
       footer: {
-        style: "dark",
+        style: "light",
         copyright: `Copyright © ${new Date().getFullYear()} Luna Labs. Not affiliated nor indorsed by MCC or MCC Island. Built with Docusaurus.`,
       },
       prism: {

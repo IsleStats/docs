@@ -10,34 +10,36 @@ On top of that, linking your account also allows you to recieve guild roles auto
 
 ### Requirements
 
-- **Minecraft (Java Edition)** version < 1.20.6 <!-- TODO: update to 1.21 -->
+- **Minecraft (Java Edition)** on any version
   - This has to be a legal (not cracked) copy of the game!
 - A **discord account** with access to IsleStats
 
 ## Obtain a linking code
 
-Launch Minecraft (Java Edition) with any version no later than 1.20.6.
+1. Launch Minecraft (Java Edition) with any version no later than 1.20.6.
 
-Connect to the minecraft server `link.islestats.net`. The server will immediately kick you, this is normal.
+2. Connect to the minecraft server `link.islestats.net`. The server will immediately kick you, this is normal.
 
- <!-- TODO: insert image -->
+   ![hotbar settings](./images/linking_server_ip.png)
 
-A valid code should be shown which you should take note off. This code expires in 5 minutes.
+3. A valid code should be shown which you should take note off. This code expires in 5 minutes.
 
 :::warning
 
-Revealing this code allows anybody to link your minecraft account to their discord account.
+Revealing this code allows anybody to link your Minecraft account to their Discord account.
 It will invalidate itself after linking, so do not worry if the command exposes your code.
 
 :::
 
 ## Link your discord account
 
-Run the IsleStats `/link` command and input your code.
+1. Run the IsleStats `/link` command and input your code.
 
-The bot will process the code and should return a render with your minecraft player.
+   ![hotbar settings](./images/link_command.png)
 
- <!-- TODO: insert image -->
+2. The bot will process the code and should return a render with your minecraft player.
+
+   ![hotbar settings](./images/linking_success.png)
 
 Once you see this, your account has been linked!
 

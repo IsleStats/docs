@@ -13,16 +13,16 @@ A majority of commands require the MCC Island API to be enabled in game.
 
 ## Enable
 
-Launch Minecraft (Java Edition) with any version no later than 1.20.6.
+1. Launch Minecraft (Java Edition) with any version no later than 1.20.6.
 
-Connect to MCC Island.
+2. Connect to MCC Island.
 
-Navigate to the settings menu in your hotbar.
+3. Navigate to the settings menu in your hotbar.
 
-![hotbar settings](./images/hotbar_settings.png) <!-- TODO: insert image -->
+   ![hotbar settings](./images/hotbar_settings.png)
 
-Navigate to the API settings tab in the settings menu.
+4. Navigate to the API settings tab in the settings menu.
 
-![api settings](./images/api_settings.png) <!-- TODO: insert image -->
+   ![api settings](./images/api_settings.png)
 
-Toggle the API settings to your liking or enable all for the full IsleStats experience
+5. Toggle the API settings to your liking or enable all for the best IsleStats experience
