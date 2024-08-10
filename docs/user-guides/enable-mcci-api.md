@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Enable the MCC Island API
@@ -19,10 +19,10 @@ A majority of commands require the MCC Island API to be enabled in game.
 
 3. Navigate to the settings menu in your hotbar.
 
-   ![hotbar settings](./images/hotbar_settings.png)
+   ![hotbar settings](./images/mcci-api/hotbar_settings.png)
 
 4. Navigate to the API settings tab in the settings menu.
 
-   ![api settings](./images/api_settings.png)
+   ![api settings](./images/mcci-api/api_settings.png)
 
 5. Toggle the API settings to your liking or enable all for the best IsleStats experience

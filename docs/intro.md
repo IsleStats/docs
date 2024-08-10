@@ -11,7 +11,7 @@ Welcome to IsleStats docs! Here you can find information on how to configure and
 
 ### Add bot to server
 
-You can start using IsleStats by [adding the bot to your Discord guild](https://islestats.net/invite) or by [installing it on your Discord account directly](https://discord.com/oauth2/authorize?client_id=1174018516039508218&scope=applications.commands&integration_type=1).
+You can start using IsleStats by [adding the bot to your Discord guild](https://islestats.net/invite) or by [installing it on your Discord account directly](https://islestats.net/install).
 
 _For an introduction of what IsleStats can do for your server, please visit [our website](https://islestats.net)._
 
