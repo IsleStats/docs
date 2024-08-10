@@ -58,7 +58,7 @@ const config = {
         defaultMode: "dark",
       },
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/social-card.png",
       navbar: {
         title: "IsleStats (Docs)",
         logo: {
@@ -66,12 +66,13 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "quickStartSidebar",
-            position: "left",
-            label: "Quick Start",
-          },
+          // Add back when there is more than one sidebar
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "quickStartSidebar",
+          //   position: "left",
+          //   label: "Quick Start",
+          // },
           {
             href: "https://islestats.net/invite",
             label: "Add to Server",
