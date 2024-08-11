@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Autoroles allow roles to be automatically assigned / removed from member's, based on their linked player's profile.
 ---
 
 # Configure Autoroles
