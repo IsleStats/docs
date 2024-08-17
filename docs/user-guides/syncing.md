@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Sync your account
+# Sync Your Account
 
 Account syncing allows for your [autoroles](/guild-guides/configure-autoroles), [linked role](/guild-guides/configure-guild-linking#configure-linked-role), and [nickname](/guild-guides/configure-guild-linking#toggle-nickname-syncing-on--off) to be updated (across guilds that have IsleStats configured) to reflect the profile of the player that you are linked to.
 

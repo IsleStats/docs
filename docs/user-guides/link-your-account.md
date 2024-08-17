@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Link your account
+# Link Your Account
 
 Linking your account allows you to quickly run commands that usually need a username as input. The bot automatically 'fills' out the input when your account is linked.
 
