@@ -43,7 +43,7 @@ const config = {
         docs: {
           sidebarPath: "./sidebars.js",
           routeBasePath: "/",
-          editUrl: "https://github.com/IsleStat/docs",
+          editUrl: "https://github.com/IsleStats/docs",
         },
         theme: {
           customCss: "./src/css/custom.css",
