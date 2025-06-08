@@ -5,7 +5,7 @@ description: Commands that allow you to view MCCI player information.
 
 # MCCI Commands
 
-## Statistics Commands
+## General Statistics Commands
 
 IsleStats offers a range of commands for different MCCI gamemodes. These commands include statistics and badges for each gamemode.
 
@@ -32,6 +32,25 @@ Each of these command groups have two sub commands:
 These commands require API visibility for **statistics** to be enabled. See [Enable the MCC Island API](/user-guides/enable-mcci-api) for more info.
 :::
 
+
+## Fishing Stats
+
+The `/fishing` command group displays information on a player's different fishing stats. It includes:
+
+- Overall (`/fishing overall [<player>]`)
+- Fish Caught (`/fishing fish [<player>]`)
+- Junk Caught (`/fishing junk [<player>]`)
+- Valuables Caught (`/fishing valuables [<player>]`)
+
+### Parameters
+
+- `player` - the player to view the fishing stats.
+
+:::note
+These commands require API visibility for **statistics** to be enabled. See [Enable the MCC Island API](/user-guides/enable-mcci-api) for more info.
+:::
+
+
 ## Currency Info
 
 **Usage**: `/currency [<player>]`
@@ -49,7 +68,7 @@ The `/currency` command displays information on a player's MCCI currencies. It i
 - `player` - the player to currency info of.
 
 :::note
-These commands require API visibility for **collections** to be enabled. See [Enable the MCC Island API](/user-guides/enable-mcci-api) for more info.
+This command requires API visibility for **collections** to be enabled. See [Enable the MCC Island API](/user-guides/enable-mcci-api) for more info.
 :::
 
 ## Leveling Info
